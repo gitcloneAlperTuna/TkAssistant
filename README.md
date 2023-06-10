@@ -10,6 +10,7 @@ This is just the beginning. We are making great strides towards developing this 
 If you notice an error or bug, you can contact me. My contact information is at the end of this file.
 
 Current features:
+
 1 - Starting Chrome
 
 2 - Starting XAMPP
