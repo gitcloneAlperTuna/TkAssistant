@@ -29,5 +29,5 @@ PHONE NUMBER - (+90) 551 027 7965
 
 YOUTUBE - https://www.youtube.com/channel/UCru9EnvujvaCtcO8c5XBrOw
 
-GITHUB - gitcloneAlperTuna
+GITHUB - https://github.com/gitcloneAlperTuna
 
