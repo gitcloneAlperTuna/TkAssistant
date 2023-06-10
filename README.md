@@ -11,17 +11,17 @@ If you notice an error or bug, you can contact me. My contact information is at 
 
 Current features:
 
-1 - Starting Chrome
+1 - Starting Chrome (NEW)
 
-2 - Starting XAMPP
+2 - Starting XAMPP (NEW)
 
-3 - Starting Python
+3 - Starting Python (NEW)
 
-4 - Starting Settings
+4 - Starting Settings (NEW)
 
-5 - Starting Calculator
+5 - Starting Calculator (NEW)
 
-6 - Starting Brave
+6 - Starting Brave (NEW)
 
 
 This program is designed for Windows. Only works on Windows. Made by Alper Tuna.
